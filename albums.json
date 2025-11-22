@@ -1,0 +1,20 @@
+[
+    {
+        "folder": "cs",
+        "title": "Aadat",
+        "description": "Rote reh hijde",
+        "coverPath": "songs/cs/cover.jpg"
+    },
+    {
+        "folder": "ncs",
+        "title": "OKK",
+        "description": "Only for RR gods",
+        "coverPath": "songs/ncs/cover.jpg"
+    },
+     {
+        "folder": "nuh",
+        "title": "OK hai yaarr",
+        "description": "PEAK",
+        "coverPath": "songs/nuh/cover.jpg"
+    }
+]   
